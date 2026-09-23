@@ -6,7 +6,7 @@
 
 **[前往下载学生实验包](https://github.com/ZihangLou/modis-phenology-lab/releases/latest)**
 
-在发布页的 **Assets** 中下载 **第八章_学生实验包.zip**（约1.03 GiB）。请下载这个完整附件，不要下载GitHub自动生成的“Source code (zip)”。也可下载 `.sha256` 文件核对完整性。
+在发布页的 **Assets** 中下载 **modis-phenology-student.zip**（约1.03 GiB）。请下载这个完整附件，不要下载GitHub自动生成的“Source code (zip)”。也可下载 `.sha256` 文件核对完整性。
 
 ## 开始实验
 
