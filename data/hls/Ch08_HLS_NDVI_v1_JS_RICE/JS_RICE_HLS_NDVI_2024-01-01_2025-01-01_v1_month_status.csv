@@ -1,0 +1,13 @@
+month,start,end_exclusive,status,candidate_scenes,accepted_scenes,image_files,detail
+2024-01,2024-01-01,2024-02-01,READY,66,7,1,Rejected 59 false spatial matches
+2024-02,2024-02-01,2024-03-01,READY,84,3,1,Rejected 81 false spatial matches
+2024-03,2024-03-01,2024-04-01,READY,167,6,1,Rejected 161 false spatial matches
+2024-04,2024-04-01,2024-05-01,READY,181,7,1,Rejected 174 false spatial matches
+2024-05,2024-05-01,2024-06-01,READY,172,7,1,Rejected 165 false spatial matches
+2024-06,2024-06-01,2024-07-01,READY,200,6,1,Rejected 194 false spatial matches
+2024-07,2024-07-01,2024-08-01,READY,192,8,1,Rejected 184 false spatial matches
+2024-08,2024-08-01,2024-09-01,READY,204,10,1,Rejected 194 false spatial matches
+2024-09,2024-09-01,2024-10-01,READY,212,9,1,Rejected 203 false spatial matches
+2024-10,2024-10-01,2024-11-01,READY,115,6,1,Rejected 109 false spatial matches
+2024-11,2024-11-01,2024-12-01,READY,67,7,1,Rejected 60 false spatial matches
+2024-12,2024-12-01,2025-01-01,READY,65,9,1,Rejected 56 false spatial matches

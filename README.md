@@ -66,3 +66,11 @@
 
 - MCD12Q2参考产品一致性比较。
 
+## 实验03、04补充资料
+
+已在仓库按原学生包目录结构提供 `notebooks/`、`data/`、`src/`、`config/` 和 `docs/`。
+
+- [下载补充ZIP](https://github.com/ZihangLou/modis-phenology-lab/releases/download/v1.0.1-supplement/experiments-03-04-supplement.zip)
+- [合并到已有学生包的操作说明](docs/实验03-04_补充资料使用说明.md)
+
+下载后将五个同名文件夹**合并**到原Windows学生包根目录，保留已有文件。无需重装环境。补充包不含原MODIS数据和运行环境，需配合Windows v1.0.0使用。实验04的完整物候空间分析需要此前生成的多年DL结果；缺失时显示待计算。

@@ -1,0 +1,32 @@
+{
+  "JS_RICE": {
+    "row": 84,
+    "col": 83,
+    "lon": 120.13932690508189,
+    "lat": 33.02075611040676,
+    "distance_m": 67.08203932499369,
+    "n_dates": 24,
+    "n_months": 6,
+    "q10": 0.4497615396976471,
+    "q90": 0.7510443329811096,
+    "amplitude_q90_q10": 0.3012827932834625,
+    "status": "seasonal_signal_candidate_NOT_verified_rice",
+    "selection_rule": "nearest_qualifying_pixel_to_original_center",
+    "grid_crs": "EPSG:32651",
+    "note": "展示用季节信号候选；不等于已验证水稻地块。2026-09-18用户要求在8区图内替换原中心。",
+    "selection_window": [
+      "2024-06-01",
+      "2024-11-30"
+    ],
+    "criteria": {
+      "min_valid_days": 15,
+      "min_valid_months": 4,
+      "p90_min": 0.65,
+      "p90_minus_p10_min": 0.3
+    },
+    "original_center": [
+      120.14004301144683,
+      33.02050432163939
+    ]
+  }
+}
